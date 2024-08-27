@@ -63,7 +63,7 @@ WeatherDetails.propTypes = {
 
 function App() {
 
-  let api_key = "53b66d3bcf9d0087fcfc650e7aae2591";
+  let api_key = "YOUR_API_KEY";
 
   const [text, setText] = useState("Tirupur");
   const [cityNotFound, setCityNotFound] =useState(false);
