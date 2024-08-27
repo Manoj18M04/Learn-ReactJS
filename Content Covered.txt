@@ -1,0 +1,11 @@
+React:
+
+1. React Frameword
+2. Installation with npx and as well as vite
+3. JSX
+4. Component
+5. Class Component
+6. Function component
+7. Props and Prop-types
+8. "PROJECT:" Profile Card
+9. "PROJECT:" QR Code Generator

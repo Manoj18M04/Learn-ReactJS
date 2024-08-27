@@ -1,0 +1,38 @@
+.head-h1{
+    color:blue;
+    font-weight: 4000;
+}
+
+.head-p{
+    color: green;
+    font-weight: bold;
+}
+
+.code{
+    color:cadetblue;
+}
+
+.error{
+    color: red;
+}
+
+.student table {
+    border: 1px solid black;
+    border-collapse: collapse ;
+}
+
+.student table td {
+    text-align: left;
+    border: 1px solid black;
+    padding: 5px 10px;
+    width: 100px;
+    background-color: aqua;
+}
+
+.student table th {
+    text-align: left;
+    border: 1px solid black;
+    width: 100px;
+    padding: 5px 10px;
+    background-color: aquamarine;
+}
